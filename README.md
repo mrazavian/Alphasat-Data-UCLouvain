@@ -5,4 +5,4 @@ The data will be published at AGU radio science paper accessible at :
 ...
 
 
-The Python files for plotting is added to this repository.
+The Python files for plotting are added to this repository.
