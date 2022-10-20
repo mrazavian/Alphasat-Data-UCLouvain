@@ -7,6 +7,8 @@ STATISTICS-MEASUREMENT : contains the excess attenuation statistics (CCDF) for t
 
 The data are provided for two frequencies 19.7 GHz (ch4) and 39.402 GHz (ch2).
 
+TIMESERIES-WRF : includes the simulation timeseries of attenuation for rain, cloud, gaseous at Louvain-la-Neuve for the Alphasat link. The atmopsheric parameters for two years are simulated and processed by WRF V.4.2 software.
+
 All of the data are in hdf5 format produced by Python library pandas.
 
 To access the contents of the files and plot the statistics, a Jupyter Notebook (*PLOT.ipynb*) along side *utils.py* file can be used. The *PLOT.ipynb* contais two cells which one is for plotting the statistics and one is for error metric analysis. The user needs to only define the frequency in GHz (*FREQ* variable) inside the cells.
