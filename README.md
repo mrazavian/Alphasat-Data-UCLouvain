@@ -16,8 +16,15 @@ In case of any difficulties please send email to:
 - claude.oestges@uclouvain.be
 - danielle.vanhoenacker@uclouvain.be
 
+# Link Parameters
+- Location : lat=50.67, lon=4.61
+- Average elevation : 30°
+- Average Azimuth : 154°
+- Frequencies: 19.7 GHz, 39.402 GHz
+- Altitude: 160 m
+
 # Achnowledgment
-The Université catholique de Louvain is thanked for the access to the Alphasat ground station data. The daily data can be visualized on the website at *http://130.104.205.199:8080/alphasat/graphs/today.html*. The statistics and simulation data for the period of 01 Sep 2018 to 30 Aug 2020 can be accessed on the *https://github.com/mrazavian/Alphasat-Data-UCLouvain*
+The Université catholique de Louvain is thanked for the access to the Alphasat ground station data. The daily data of Alphasat receiver station can be visualized on the website at *http://130.104.205.199:8080/alphasat/graphs/today.html*. The statistics and simulation data for the period of 01 Sep 2018 to 30 Aug 2020 can be accessed publicly at the *https://github.com/mrazavian/Alphasat-Data-UCLouvain*
 
 
 # Citation
