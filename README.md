@@ -17,7 +17,7 @@ claude.oestges@uclouvain.be
 danielle.vanhoenacker@uclouvain.be
 
 # Achnowledgment
-The Universite catholique de Louvain is thanked for the access to the Alphasat ground station data. The daily data can be visualized on the website at *http://130.104.205.199:8080/alphasat/graphs/today.html*. The statistics and simulation data for time periods 01 Sep 2018 to 30 Aug 2020 can be accessed on the *https://github.com/mrazavian/Alphasat-Data-UCLouvain*
+The Université catholique de Louvain is thanked for the access to the Alphasat ground station data. The daily data can be visualized on the website at *http://130.104.205.199:8080/alphasat/graphs/today.html*. The statistics and simulation data for time periods 01 Sep 2018 to 30 Aug 2020 can be accessed on the *https://github.com/mrazavian/Alphasat-Data-UCLouvain*
 
 
 # Citation
